@@ -88,6 +88,7 @@ public class LoginActivity extends Activity implements LoaderCallbacks<Cursor> {
             public void onClick(View view) {
                 //attemptLogin();
                 Intent intent = new Intent(LoginActivity.this, Menu.class);
+                //Intent intent = new Intent(LoginActivity.this, Record.class);
                 startActivity(intent);
             }
         });

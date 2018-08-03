@@ -1,8 +1,24 @@
 <component name="ProjectDictionaryState">
   <dictionary name="lenovo">
     <words>
-      <w>safetyhelper</w>
-      <w>snackbar</w>
+      <w>alertdialog</w>
+      <w>alertdialogbuilder</w>
+      <w>ccxu</w>
+      <w>currenttime</w>
+      <w>cxfc</w>
+      <w>filesave</w>
+      <w>filetem</w>
+      <w>finishrecord</w>
+      <w>finishwork</w>
+      <w>isplaying</w>
+      <w>isrecording</w>
+      <w>mbutton</w>
+      <w>pauseplay</w>
+      <w>pauserecord</w>
+      <w>playhandler</w>
+      <w>playpause</w>
+      <w>timehandler</w>
+      <w>volumehandler</w>
     </words>
   </dictionary>
 </component>
